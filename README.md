@@ -7,6 +7,13 @@
 [![Vue](https://img.shields.io/badge/Vue-3.5-4FC08D.svg)](https://vuejs.org/)
 [![Vite](https://img.shields.io/badge/Vite-8.0-646CFF.svg)](https://vitejs.dev/)
 [![Element Plus](https://img.shields.io/badge/Element%20Plus-2.14-409EFF.svg)](https://element-plus.org/)
+预览
+<img width="2532" height="1468" alt="image" src="https://github.com/user-attachments/assets/f95bf9d3-b746-493a-b98b-859678d93774" />
+
+<img width="2517" height="1375" alt="image" src="https://github.com/user-attachments/assets/294504ef-da5f-43fe-b318-d33b66a37f1b" />
+
+<img width="2524" height="1376" alt="image" src="https://github.com/user-attachments/assets/714fe965-e52e-4f34-90b8-fd81e06e4c67" />
+
 
 ---
 
